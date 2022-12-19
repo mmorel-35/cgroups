@@ -10,7 +10,7 @@ require (
 	github.com/opencontainers/runtime-spec v1.0.2
 	github.com/sirupsen/logrus v1.8.1
 	github.com/stretchr/testify v1.8.0
-	go.uber.org/goleak v1.1.12
+	go.uber.org/goleak v1.2.0
 	golang.org/x/sys v0.0.0-20210906170528-6f6e22806c34
 	google.golang.org/protobuf v1.27.1
 )
