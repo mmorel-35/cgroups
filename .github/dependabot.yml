@@ -14,6 +14,6 @@ updates:
     schedule:
       interval: weekly
   - package-ecosystem: gomod
-    directory: /
+    directory: /cmd
     schedule:
       interval: weekly
